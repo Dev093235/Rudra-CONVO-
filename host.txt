@@ -1,6 +1,6 @@
 def login():
-    correct_username = "DEVIL"
-    correct_password = "T.S.BRAND"
+    correct_username = "RUDRA"
+    correct_password = "RUDRA.BRAND"
     username = input("correct_username")
     password = input("correct_password")
     if username == correct_username and password == correct_password:
